@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812498516676",
+    "firebase_url": "https://uts2020andre.firebaseio.com",
+    "project_id": "uts2020andre",
+    "storage_bucket": "uts2020andre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812498516676:android:6fd7c1a8351398d62b2791",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500124_andrepratama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812498516676-lj7ff8qden2h764ugt10beaf03sg4p2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500124_andrepratama",
+            "certificate_hash": "03ea76bc01ff7cd2f35c7f4c5f0c448eeba7baae"
+          }
+        },
+        {
+          "client_id": "812498516676-m41dlk1j5p2477f36jmb32d69b2elkkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvP452DzhvvTmbEU3B8NThAszcpznojys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812498516676-m41dlk1j5p2477f36jmb32d69b2elkkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
